@@ -1,1 +1,3 @@
-Consultas/consulta1.sqlPrimer archivo SQL
+# SQL
+
+Repositorio para guardar mis prácticas y ejercicios de SQL.
